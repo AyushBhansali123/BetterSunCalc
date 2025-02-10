@@ -1,28 +1,7 @@
 # Welcome to Better SunCalc!
 
-Welcome to **BetterSunCalc**. This calculator is the best calculator. This calculator uses Reverse Polish Notation. This is **not** a calculator used to find sun and moon information. It is called SunCalc because it is a calculator followed before my name, Sunny.
+Welcome to **BetterSunCalc**. This calculator is the best calculator. This calculator uses Notation. This is **not** a calculator used to find sun and moon information. It is called SunCalc because it is a calculator followed before my name, Sunny.
 
-## Reverse Polish Notation
-
-What is Reverse Polish Notation? It is when you type the operator after the operands. For example
-
-	2 2 +
-
-SunCalc would print out
-
-	2.0 + 2.0 = 4.0
-
-However, some functions don't require a second number. For example
-
-	16 !
-
-Suncalc would print out
-
-	16.0! = 2.0922789888E13
-You can find out more about Reverse Polish Notation (RPN) [here](https://en.wikipedia.org/wiki/Reverse_Polish_notation).
-## Functions
-
-SunCalc can handle trigonometry and irrational numbers. A list of functions can be found [here](https://bit.ly/SunCalcFunctions).
 
 >The functions found in gray cannot be used in CodeHS
 
