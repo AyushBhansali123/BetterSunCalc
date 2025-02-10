@@ -1,6 +1,6 @@
-# Welcome to SunCalc!
+# Welcome to Better SunCalc!
 
-Welcome to **SunCalc**. This calculator uses Reverse Polish Notation. This is **not** a calculator used to find sun and moon information. It is called SunCalc because it is a calculator followed before my name, Sunny.
+Welcome to **BetterSunCalc**. This calculator is the best calculator. This calculator uses Reverse Polish Notation. This is **not** a calculator used to find sun and moon information. It is called SunCalc because it is a calculator followed before my name, Sunny.
 
 ## Reverse Polish Notation
 
